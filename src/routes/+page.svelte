@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div id="sisenseApp">
+    <iframe src='http://54.173.244.240:30845/app/main/dashboards/6310e91b131c34002be63418' width="100%" height="100%" title="sisense" frameborder=none></iframe>
+</div>
+
+<style>
+
+#sisenseApp {
+    height: 100%;
+    width: 100%;
+}
+
+</style>
