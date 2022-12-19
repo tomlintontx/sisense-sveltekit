@@ -1,5 +1,5 @@
 <div id="sisenseApp">
-    <iframe src='http://54.173.244.240:30845/app/main/dashboards/6310e91b131c34002be63418' width="100%" height="100%" title="sisense" frameborder=none></iframe>
+    <iframe src='https://tams.sisensepoc.com/app/main/dashboards/6310e91b131c34002be63418' width="100%" height="100%" title="sisense" frameborder=none></iframe>
 </div>
 
 <style>
